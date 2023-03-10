@@ -2,6 +2,14 @@ Welcome to Power BI projects!!
 
 This repo contains various Power BI projects. 
 
+CHURN ANALYSIS:
+
+
+CALL CENTER PWC @FORAGE:
+
+
+
+
 AMAZON EDA: I have recreated the answers to the following questions in Power BI for the Amazon Prime movies and tv shows dataset. New columns have been created using conditional formatting. 
 
 1.	Import the dataset into the system and ensured that the datatype is correct of each column.
