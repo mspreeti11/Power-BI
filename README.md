@@ -2,11 +2,13 @@ Welcome to Power BI projects!!
 
 This repo contains various Power BI projects. 
 
-CHURN ANALYSIS:
+CHURN ANALYSIS: This is part of virtual internship.
 
 
-CALL CENTER PWC @FORAGE:
+CALL CENTER PWC @FORAGE: This is part of the virtual internship posted by PWC at The Forage website.
 
+
+MCC @FP20: This is a part of challenge posted by FP20 Analytics in their Linkedin Account. 
 
 
 
